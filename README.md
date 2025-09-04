@@ -1,4 +1,3 @@
-# SQL-Security-Investigation
 # SQL-Based Security Investigation
 
 ## Overview
@@ -14,7 +13,7 @@ This repository documents a SQL-based investigation of security issues in a larg
 - **Documentation**: PDF (audit report), Markdown, lab screenshots.
 
 ## Repository Structure
-- [sql-audit-report.pdf](): Portfolio document with SQL queries, findings, and screenshots.
+- [sql-audit-report.pdf](https://github.com/Usman-emtee/SQL-Security-Investigation/blob/main/sql-audit-report.pdf): Portfolio document with SQL queries, findings, and screenshots.
 
 ## Key Findings
 - **Brute Force Risk**: User `alice` had 5 failed login attempts, suggesting a potential attack.
